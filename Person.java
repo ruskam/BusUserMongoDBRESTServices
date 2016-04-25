@@ -5,7 +5,7 @@ import org.springframework.data.mongodb.core.geo.GeoJsonPoint;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
- * Created by Rusta Kamberov on 25/04/16.
+ * Created by Rustam Kamberov on 25/04/16.
  */
 
 @SuppressWarnings("serial")
